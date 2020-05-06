@@ -1,0 +1,22 @@
+{
+  "name": "diff-check",
+  "version": "1.0.0",
+  "description": "A simple diff check module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolagrey/DIFF-CHECK.git"
+  },
+  "author": "Kola Grey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolagrey/DIFF-CHECK/issues"
+  },
+  "homepage": "https://github.com/kolagrey/DIFF-CHECK#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
